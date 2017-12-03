@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "test-philschatz:toggle"
   },
-  "repository": "https://github.com/atom/test-philschatz",
+  "repository": "https://github.com/philschatz/test-philschatz",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
